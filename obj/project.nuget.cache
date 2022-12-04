@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qM1oG1KKrXlfsHX9CzbxGVfsUxyZ1Z0fhQDz6IhqbzF2Kqy/U0MQ2/0jMfjf3ruPflxpNJtJZIG6c+s2pn/CCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geova\\Desktop\\Arquivos\\Programas\\Estudo\\C#\\Projetos\\ImobiliariaAPI\\ImobiliariaAPI\\ImobiliariaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geova\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\geova\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\geova\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\geova\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\geova\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\geova\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
